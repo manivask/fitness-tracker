@@ -4,6 +4,7 @@ import tailwindcss from '@tailwindcss/vite';
 import { dailyLogsPlugin } from './dailyLogsPlugin.js';
 
 export default defineConfig({
+  base: '/fitness-tracker/',
   plugins: [
     react(),
     tailwindcss(),
