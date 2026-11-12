@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-12",
+  "user": "vijayalakshmi",
+  "userName": "Vijayalakshmi",
+  "weight": "98.8",
+  "stepCompleted": false,
+  "diet": {
+    "v-s1-1": true,
+    "v-m1-1": true,
+    "v-m1-2": true
+  },
+  "workouts": {
+    "vijayalakshmi-d1-m1-set-1": true,
+    "vijayalakshmi-d1-m1-set-2": true
+  }
+}

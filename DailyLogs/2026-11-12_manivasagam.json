@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-12",
+  "user": "manivasagam",
+  "userName": "Manivasagam",
+  "weight": "82.8",
+  "stepCompleted": true,
+  "diet": {
+    "m-s1-1": true,
+    "m-s1-2": true,
+    "m-m1-1": true,
+    "m-m1-2": true,
+    "m-m1-3": true
+  },
+  "workouts": {
+    "manivasagam-d1-m1-set-1": true,
+    "manivasagam-d1-m1-set-2": true,
+    "manivasagam-d1-e1-set-1": true,
+    "manivasagam-d1-e1-set-2": true
+  }
+}
